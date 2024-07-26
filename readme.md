@@ -2,6 +2,8 @@
 
 Based on Cloudflare Workers & Vercel
 
+> **Notice**: I found the test site **u.li2niu.com** was abused by phishing emails. So I cancelled the deployment. Please deploy the version of your own. 
+
 [🇨🇳 简体中文](./readme-zhCN.md)
 
 **Try it now:** https://cf-url-admin.li2niu.com/
